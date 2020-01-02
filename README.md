@@ -1,3 +1,4 @@
 # hello-world
 create a simple repository
-fine-
+Hey!
+It's good to meet u here!
